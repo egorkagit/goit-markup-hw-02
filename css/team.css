@@ -17,7 +17,15 @@
    color: #2e2f42;
 }
 
-.section-team h2 {
+.section-team .text-two {
    letter-spacing: 0.02em;
    line-height: 1.11;
+   text-align: center;
+   color: #2e2f42;
+   font-size: 36px;
+}
+
+.section-team .text-three {
+   font-size: 20px;
+   font-weight: 500;
 }
