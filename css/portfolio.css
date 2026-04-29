@@ -1,8 +1,14 @@
 .section-portfolio h2 {
    font-weight: 700;
    letter-spacing: 0.02em;
+   line-height: 1.11;
 }
 
 .section-portfolio p {
    letter-spacing: 0.02em;
+}
+
+.section-portfolio h3 {
+   color: #2e2f42;
+   line-height: 1.2;
 }

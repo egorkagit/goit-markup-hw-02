@@ -18,5 +18,6 @@
 }
 
 .section-team h2 {
-   letter-spacing: 0.02em
+   letter-spacing: 0.02em;
+   line-height: 1.11;
 }
