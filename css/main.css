@@ -5,3 +5,4 @@
 @import './team.css';
 @import './portfolio.css';
 @import './footer.css';
+@import 'node_modules/modern-normalize/modern-normalize.css';

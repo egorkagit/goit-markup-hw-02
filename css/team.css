@@ -1,12 +1,22 @@
-#team {
+.section-team {
    background-color: #F4F4FD;
 }
 
-#team ul li {
+.section-team ul li {
    background-color: white;
 }
 
-#team ul li p,
-#team ul li h3 {
+.section-team ul li p,
+.section-team ul li h3 {
    text-align: center;
+}
+
+.section-team ul li h3 {
+   line-height: 1.2;
+   letter-spacing: 0.02em;
+   color: #2e2f42;
+}
+
+.section-team h2 {
+   letter-spacing: 0.02em
 }
