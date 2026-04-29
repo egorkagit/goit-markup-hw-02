@@ -1,0 +1,14 @@
+#hero {
+   background-color: #2E2F42;
+}
+
+#hero button {
+   background-color: #4D5AE5;
+   color: white;
+   font-family: "Roboto", Helvetica, sans-serif;
+   font-weight: 500;
+}
+
+#hero button:hover {
+   background-color: #404BBF;
+}

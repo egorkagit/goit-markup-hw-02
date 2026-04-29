@@ -1,0 +1,27 @@
+.logo {
+   text-transform: uppercase;
+   color: #2E2F42;
+   font-family: "Raleway", Helvetica, sans-serif;
+   font-weight: bold;
+}
+
+.logo span {
+   color: #4D5AE5;
+}
+
+nav a {
+   color: #2E2F42;
+   font-weight: 500;
+}
+
+header ul a:hover {
+   color: #404BBF;
+}
+
+nav a:active {
+   text-decoration: underline;
+}
+
+address a {
+   color: #434455;
+}
